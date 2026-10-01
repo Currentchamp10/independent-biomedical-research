@@ -36,6 +36,7 @@ How are receptor organization, membrane properties, intracellular signalling, an
 
 ## Status
 
-**In development**
+**Completed — current literature synthesis**
 
-The full review and verified reference list will be added following completion of scientific and bibliographic review.
+This review presents a completed synthesis and critical analysis of the literature examined for this topic. The reference list is included in the full review. New findings and relevant developments in the field will be incorporated as the evidence base evolves.
+
